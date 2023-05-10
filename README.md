@@ -3,14 +3,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/rdarneal/mediapipe_python_examples">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">Mediapipe Object Detection Python Exapmles</h3>
 
   <p align="center">
-    Python jupyter notebook examples using several [Mediapipe](https://developers.google.com/mediapipe) solutions with opencv for live webcam detection.
+    Python jupyter notebook examples using several <a href="https://developers.google.com/mediapipe">Mediapipe</a> solutions with opencv for live webcam detection.
     <br />
     <br />
   </p>
@@ -42,9 +38,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-The [Mediapipe documentation]() has several examples for still image detection with python, but the live stream python examples were not fully implemented. This repo contains a few implementations that demonstrate live stream functionality of the following solutions / APIs:
+The [Mediapipe documentation](https://developers.google.com/mediapipe) has several examples for still image detection with python, but the live stream python examples were not fully implemented. This repo contains a few implementations that demonstrate live stream functionality of the following solutions / APIs:
 
 * [Object Detection](https://developers.google.com/mediapipe/solutions/vision/object_detector/python)
 * [Gesture Recognition](https://developers.google.com/mediapipe/solutions/vision/gesture_recognizer/python)
